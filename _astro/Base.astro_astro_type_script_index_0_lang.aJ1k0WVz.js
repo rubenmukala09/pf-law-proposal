@@ -1,1 +1,0 @@
-import{t as e}from"./preload-helper.DHhhL8Zf.js";var t=()=>e(()=>import(`./motion.BWAYTWKC.js`),[]);`requestIdleCallback`in window?requestIdleCallback(t,{timeout:1200}):setTimeout(t,400);
